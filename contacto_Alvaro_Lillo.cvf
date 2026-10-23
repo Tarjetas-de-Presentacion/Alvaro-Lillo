@@ -1,1 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lillo Sepúlveda;Álvaro;;;
+FN:Álvaro Lillo Sepúlveda
+ORG:Constructora e Inmobiliaria Malpo Ltda.
+TITLE:Subgerente Adminitración y Finanzas
+TEL;TYPE=CELL,VOICE:+56 9 6170 8933
+TEL;TYPE=WORK,VOICE: +56 9 5818 3000
+EMAIL;TYPE=WORK:alillo@malpo.cl
+ADR;TYPE=WORK:;;Talca;Región del Maule;;Chile
+URL;TYPE=WORK:https://www.malpo.cl
+END:VCARD
 
